@@ -59,9 +59,9 @@ a {
 	background-color: transparent;
 }
 
-a:hover {
-	text-decoration: underline;
-}
+/*a:hover {*/
+/*	text-decoration: underline;*/
+/*}*/
 
 pre {
 	display: block;
