@@ -72,7 +72,7 @@ pre {
 }
 
 code {
-    font-family: "Menlo", "Consolas", monospace;
+    font-family: 'Monaco', 'Consolas', sans-serif;
     font-size: 0.8em;
     margin: 0px;
 }
