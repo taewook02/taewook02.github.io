@@ -6,7 +6,11 @@
     "type": "git",
     "url": "git+https://github.com/richleland/pygments-css.git"
   },
-  "keywords": ["pygments", "css", "highlighting"],
+  "keywords": [
+    "pygments",
+    "css",
+    "highlighting"
+  ],
   "license": "UNLICENSE",
   "bugs": {
     "url": "https://github.com/richleland/pygments-css/issues"
