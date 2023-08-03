@@ -24,17 +24,24 @@ description: "개발 블로그"
 url: "https://taewook02.github.io/"
 #baseurl: "blog"
 github_username: taewook02
-highlighter: rouge
 svg:
   optimize: true
 # Build settings
 # theme: minima
+highlighter: rouge
 highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+
+markdown: kramdown
+kramdown:
+  highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
