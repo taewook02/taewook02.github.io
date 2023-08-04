@@ -74,8 +74,13 @@ pre {
 
 code {
     font-family: 'Monaco', 'Consolas', sans-serif;
-    font-size: 0.8em;
+    font-size: 0.9em;
     margin: 0px;
+}
+
+code pre {
+    /*padding: 0;*/
+    margin: 5px;
 }
 
 code table, code th, code td {
@@ -394,5 +399,14 @@ img {
         width: 100%;
         display: block;
         margin: 0 auto;
+    }
+
+    code {
+        font-size: 1em;
+    }
+
+    code pre {
+        padding: 0;
+        margin: 0;
     }
 }
