@@ -329,6 +329,23 @@ footer {
     color: #ccc;
 }
 
+/* Custom Settings */
+
+table {
+    border-collapse: collapse;
+    border-top: 1px solid #444444;
+}
+
+th, td {
+    border-bottom: 1px solid #444444;
+    padding: 10px;
+}
+
+img {
+    width: 50vw;
+    /*display: block;*/
+    /*margin: 0 auto;*/
+}
 
 @media (max-width: 576px) {
     article {
@@ -368,16 +385,10 @@ footer {
         visibility: hidden;
         display: none;
     }
-}
 
-/* Custom Settings */
-
-table {
-    border-collapse: collapse;
-    border-top: 1px solid #444444;
-}
-
-th, td {
-    border-bottom: 1px solid #444444;
-    padding: 10px;
+    img {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+    }
 }
