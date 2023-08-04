@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "포스트 작성 방법"
 categories:
   - Jekyll

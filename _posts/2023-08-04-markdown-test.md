@@ -1,20 +1,9 @@
 ---
+layout: post
 title: "마크다운 테스트"
 categories:
   - Tests
 last_modified_at: 2023-08-04
----
-
----
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
 ---
 
 # h1 Heading 8-)
@@ -28,8 +17,6 @@ You will like those projects!
 ## Horizontal Rules
 
 ___
-
----
 
 ***
 
