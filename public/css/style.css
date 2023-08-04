@@ -78,6 +78,10 @@ code {
     margin: 0px;
 }
 
+code table, code th, code td {
+    border: none;
+}
+
 .container {
     min-height: 100%;
     display: flex;
@@ -364,4 +368,16 @@ footer {
         visibility: hidden;
         display: none;
     }
+}
+
+/* Custom Settings */
+
+table {
+    border-collapse: collapse;
+    border-top: 1px solid #444444;
+}
+
+th, td {
+    border-bottom: 1px solid #444444;
+    padding: 10px;
 }
