@@ -75,12 +75,16 @@ pre {
 code {
     font-family: 'Monaco', 'Consolas', sans-serif;
     font-size: 0.9em;
-    margin: 0px;
+    margin: 0;
 }
 
 code pre {
     /*padding: 0;*/
     margin: 5px;
+}
+
+pre.highlight {
+    padding: 10px;
 }
 
 code table, code th, code td {
