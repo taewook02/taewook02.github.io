@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Blog
+## Taewook
 
-[Link]({{ site.url }})
+> ㅎㅇ
+
+![](https://github-readme-stats.vercel.app/api?username=taewook02&theme=swift&show_icons=true)
