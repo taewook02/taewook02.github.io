@@ -41,7 +41,7 @@ kramdown:
   highlighter: rouge
   syntax_highlighter_opts:
     block:
-      line_numbers: true
+      line_numbers: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
